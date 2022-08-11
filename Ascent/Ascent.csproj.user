@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Home\Desktop\Agriculture\Agriculture\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AdminMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Auth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClimberForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClubForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AscentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdmAuth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RouteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MembershipForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MountainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TablesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UsersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

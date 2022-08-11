@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Agriculture</id>
+    <version>1.0.0</version>
+    <authors>Agriculture</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="EPPlus" version="5.8.4" exclude="Build,Analyzers" />
+        <dependency id="Pomelo.EntityFrameworkCore.MySql" version="5.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Asus\Desktop\lechenie\Agriculture\Agriculture\bin\Debug\netcoreapp3.1\Agriculture.runtimeconfig.json" target="lib\netcoreapp3.1\Agriculture.runtimeconfig.json" />
+    <file src="C:\Users\Asus\Desktop\lechenie\Agriculture\Agriculture\bin\Debug\netcoreapp3.1\Agriculture.dll" target="lib\netcoreapp3.1\Agriculture.dll" />
+  </files>
+</package>
